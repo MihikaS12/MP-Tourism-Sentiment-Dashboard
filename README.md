@@ -100,6 +100,6 @@ python scripts/civic_complaint_extractor.py
 The app will automatically open in your browser.
 
 ### ✍️ Author and License
-Author: Naman Nair
+Author: Mihika Sharma
 
 License: This project is licensed under the MIT License.
