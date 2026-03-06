@@ -1,0 +1,61 @@
+{
+    "total_extracted_complaints": 199,
+    "city_complaint_density": [
+        {
+            "city": "Bhopal",
+            "total_civic_complaints": 19
+        },
+        {
+            "city": "Gwalior",
+            "total_civic_complaints": 13
+        },
+        {
+            "city": "Indore",
+            "total_civic_complaints": 13
+        },
+        {
+            "city": "Jabalpur",
+            "total_civic_complaints": 14
+        },
+        {
+            "city": "Kanha National Park",
+            "total_civic_complaints": 17
+        },
+        {
+            "city": "Khajuraho",
+            "total_civic_complaints": 11
+        },
+        {
+            "city": "MISSING_CITY",
+            "total_civic_complaints": 9
+        },
+        {
+            "city": "Mandu",
+            "total_civic_complaints": 17
+        },
+        {
+            "city": "Omkareshwar",
+            "total_civic_complaints": 10
+        },
+        {
+            "city": "Orchha",
+            "total_civic_complaints": 15
+        },
+        {
+            "city": "Pachmarhi",
+            "total_civic_complaints": 24
+        },
+        {
+            "city": "Pench National Park",
+            "total_civic_complaints": 12
+        },
+        {
+            "city": "Sanchi",
+            "total_civic_complaints": 12
+        },
+        {
+            "city": "Ujjain",
+            "total_civic_complaints": 13
+        }
+    ]
+}

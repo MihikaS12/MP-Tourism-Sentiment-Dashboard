@@ -1,0 +1,409 @@
+{
+    "key_metrics": {
+        "sentiment_distribution": {
+            "Positive": 46.64,
+            "Neutral": 34.17,
+            "Negative": 19.19
+        },
+        "top_10_places": {
+            "Gohar Mahal": 24,
+            "Gwalior Fort": 23,
+            "Bhedaghat": 22,
+            "Great Bowl": 21,
+            "Ram Raja Temple": 21,
+            "Rani Durgavati Museum": 21,
+            "Buddhist Vihara": 20,
+            "Vedh Shala Observatory": 20,
+            "Satpura National Park": 19,
+            "Sas Bahu Temple": 19
+        },
+        "platform_distribution": {
+            "Twitter": 59.6,
+            "Instagram": 30.61,
+            "Reddit": 9.8
+        },
+        "total_posts": 1235
+    },
+    "place_sentiment_data": [
+        {
+            "place_name": "Ralamandal Wildlife Sanctuary",
+            "Sentiment Index": 0.7444360274381151,
+            "Total Posts": 12
+        },
+        {
+            "place_name": "Ram Ghat",
+            "Sentiment Index": 0.7044668165148468,
+            "Total Posts": 13
+        },
+        {
+            "place_name": "Western Group Temples",
+            "Sentiment Index": 0.7006879722827872,
+            "Total Posts": 16
+        },
+        {
+            "place_name": "Tiger Reserve",
+            "Sentiment Index": 0.6998327502301723,
+            "Total Posts": 16
+        },
+        {
+            "place_name": "Omkareshwar Temple",
+            "Sentiment Index": 0.6981791137664924,
+            "Total Posts": 14
+        },
+        {
+            "place_name": "Betwa River",
+            "Sentiment Index": 0.6970185857652186,
+            "Total Posts": 17
+        },
+        {
+            "place_name": "Ram Raja Temple",
+            "Sentiment Index": 0.6885068714297541,
+            "Total Posts": 21
+        },
+        {
+            "place_name": "Kandariya Mahadev Temple",
+            "Sentiment Index": 0.6858960530911632,
+            "Total Posts": 9
+        },
+        {
+            "place_name": "Patalpani Waterfall",
+            "Sentiment Index": 0.6796251335656214,
+            "Total Posts": 14
+        },
+        {
+            "place_name": "Gohar Mahal",
+            "Sentiment Index": 0.6763011084862802,
+            "Total Posts": 24
+        },
+        {
+            "place_name": "Apsara Vihar",
+            "Sentiment Index": 0.6675893986059328,
+            "Total Posts": 13
+        },
+        {
+            "place_name": "Dhuandhar Falls",
+            "Sentiment Index": 0.6626064695623287,
+            "Total Posts": 15
+        },
+        {
+            "place_name": "Vedh Shala Observatory",
+            "Sentiment Index": 0.6585261195813219,
+            "Total Posts": 20
+        },
+        {
+            "place_name": "Lal Bagh Palace",
+            "Sentiment Index": 0.6573511270352398,
+            "Total Posts": 12
+        },
+        {
+            "place_name": "24 Avatars",
+            "Sentiment Index": 0.6556220987480659,
+            "Total Posts": 17
+        },
+        {
+            "place_name": "Vishvanatha Temple",
+            "Sentiment Index": 0.6516183195592287,
+            "Total Posts": 13
+        },
+        {
+            "place_name": "Panna National Park",
+            "Sentiment Index": 0.6484080231065469,
+            "Total Posts": 14
+        },
+        {
+            "place_name": "Hoshang Shah Tomb",
+            "Sentiment Index": 0.6443883067166777,
+            "Total Posts": 19
+        },
+        {
+            "place_name": "Lower Lake",
+            "Sentiment Index": 0.6420149457802923,
+            "Total Posts": 11
+        },
+        {
+            "place_name": "Lakshmana Temple",
+            "Sentiment Index": 0.6271667541557305,
+            "Total Posts": 8
+        },
+        {
+            "place_name": "Jami Masjid",
+            "Sentiment Index": 0.626653472489419,
+            "Total Posts": 16
+        },
+        {
+            "place_name": "Bhedaghat",
+            "Sentiment Index": 0.6184913969378085,
+            "Total Posts": 22
+        },
+        {
+            "place_name": "Mowgli Land",
+            "Sentiment Index": 0.6149356481310653,
+            "Total Posts": 14
+        },
+        {
+            "place_name": "Upper Lake",
+            "Sentiment Index": 0.613074003670687,
+            "Total Posts": 14
+        },
+        {
+            "place_name": "Chauragarh Temple",
+            "Sentiment Index": 0.6034800241261453,
+            "Total Posts": 17
+        },
+        {
+            "place_name": "Rani Durgavati Museum",
+            "Sentiment Index": 0.5996100864748007,
+            "Total Posts": 21
+        },
+        {
+            "place_name": "Chausath Yogini Temple",
+            "Sentiment Index": 0.5962126476041769,
+            "Total Posts": 11
+        },
+        {
+            "place_name": "Sarafa Bazaar",
+            "Sentiment Index": 0.5932802136881362,
+            "Total Posts": 18
+        },
+        {
+            "place_name": "Tribal Museum",
+            "Sentiment Index": 0.5910263435578358,
+            "Total Posts": 17
+        },
+        {
+            "place_name": "Jai Vilas Palace",
+            "Sentiment Index": 0.5908107856022385,
+            "Total Posts": 11
+        },
+        {
+            "place_name": "Bee Falls",
+            "Sentiment Index": 0.5832486899425469,
+            "Total Posts": 10
+        },
+        {
+            "place_name": "Sas Bahu Temple",
+            "Sentiment Index": 0.5826053871307433,
+            "Total Posts": 19
+        },
+        {
+            "place_name": "Khajrana Ganesh Temple",
+            "Sentiment Index": 0.5820982473802224,
+            "Total Posts": 13
+        },
+        {
+            "place_name": "Archaeological Museum",
+            "Sentiment Index": 0.5790760676639982,
+            "Total Posts": 17
+        },
+        {
+            "place_name": "Ashoka Pillar",
+            "Sentiment Index": 0.5788247319513938,
+            "Total Posts": 7
+        },
+        {
+            "place_name": "Tansen Tomb",
+            "Sentiment Index": 0.5692704315886133,
+            "Total Posts": 13
+        },
+        {
+            "place_name": "Baz Bahadur Palace",
+            "Sentiment Index": 0.5678758406445226,
+            "Total Posts": 15
+        },
+        {
+            "place_name": "Buddhist Vihara",
+            "Sentiment Index": 0.5665374224169406,
+            "Total Posts": 20
+        },
+        {
+            "place_name": "Harsiddhi Temple",
+            "Sentiment Index": 0.5660101360482928,
+            "Total Posts": 17
+        },
+        {
+            "place_name": "Siddhanath Temple",
+            "Sentiment Index": 0.5623182647402218,
+            "Total Posts": 18
+        },
+        {
+            "place_name": "Chaturbhuj Temple",
+            "Sentiment Index": 0.552898712092374,
+            "Total Posts": 18
+        },
+        {
+            "place_name": "Marble Rocks",
+            "Sentiment Index": 0.547075349184846,
+            "Total Posts": 13
+        },
+        {
+            "place_name": "Kajal Rani Cave",
+            "Sentiment Index": 0.5455375590355457,
+            "Total Posts": 14
+        },
+        {
+            "place_name": "Rani Roopmati Pavilion",
+            "Sentiment Index": 0.5431128787201716,
+            "Total Posts": 13
+        },
+        {
+            "place_name": "Madan Mahal Fort",
+            "Sentiment Index": 0.5397405029427502,
+            "Total Posts": 14
+        },
+        {
+            "place_name": "Sun Temple",
+            "Sentiment Index": 0.5390294476531359,
+            "Total Posts": 17
+        },
+        {
+            "place_name": "Great Bowl",
+            "Sentiment Index": 0.5378041339560767,
+            "Total Posts": 21
+        },
+        {
+            "place_name": "Jata Shankar",
+            "Sentiment Index": 0.5326427657712247,
+            "Total Posts": 13
+        },
+        {
+            "place_name": "Sanchi Stupa",
+            "Sentiment Index": 0.5322366448479731,
+            "Total Posts": 13
+        },
+        {
+            "place_name": "Raj Mahal",
+            "Sentiment Index": 0.530687415566871,
+            "Total Posts": 15
+        },
+        {
+            "place_name": "Jungle Safari",
+            "Sentiment Index": 0.5257652597670769,
+            "Total Posts": 12
+        },
+        {
+            "place_name": "Gopachal Parvat",
+            "Sentiment Index": 0.5213585101292072,
+            "Total Posts": 14
+        },
+        {
+            "place_name": "Van Vihar National Park",
+            "Sentiment Index": 0.5129086480981269,
+            "Total Posts": 16
+        },
+        {
+            "place_name": "Core Zone",
+            "Sentiment Index": 0.511008888888889,
+            "Total Posts": 15
+        },
+        {
+            "place_name": "Jahaz Mahal",
+            "Sentiment Index": 0.49123718934671745,
+            "Total Posts": 15
+        },
+        {
+            "place_name": "Tiger Safari",
+            "Sentiment Index": 0.48854389884730615,
+            "Total Posts": 16
+        },
+        {
+            "place_name": "Pandav Caves",
+            "Sentiment Index": 0.48458268777366115,
+            "Total Posts": 17
+        },
+        {
+            "place_name": "Jehangir Mahal",
+            "Sentiment Index": 0.4834640330601667,
+            "Total Posts": 14
+        },
+        {
+            "place_name": "Light and Sound Show",
+            "Sentiment Index": 0.4812468425433359,
+            "Total Posts": 13
+        },
+        {
+            "place_name": "Bird Watching",
+            "Sentiment Index": 0.4765708912212583,
+            "Total Posts": 18
+        },
+        {
+            "place_name": "Gwalior Fort",
+            "Sentiment Index": 0.4716265701379865,
+            "Total Posts": 23
+        },
+        {
+            "place_name": "Mahakaleshwar Temple",
+            "Sentiment Index": 0.46353815134522086,
+            "Total Posts": 16
+        },
+        {
+            "place_name": "Kal Bhairav Temple",
+            "Sentiment Index": 0.4439719679227876,
+            "Total Posts": 13
+        },
+        {
+            "place_name": "Bamni Dadar Sunset Point",
+            "Sentiment Index": 0.43195075334078686,
+            "Total Posts": 16
+        },
+        {
+            "place_name": "Narmada Parikrama",
+            "Sentiment Index": 0.4277338623531207,
+            "Total Posts": 18
+        },
+        {
+            "place_name": "Hindola Mahal",
+            "Sentiment Index": 0.4216679352068696,
+            "Total Posts": 12
+        },
+        {
+            "place_name": "Buffer Zone",
+            "Sentiment Index": 0.4138865808059825,
+            "Total Posts": 10
+        },
+        {
+            "place_name": "Orchha Fort Complex",
+            "Sentiment Index": 0.41182301804781246,
+            "Total Posts": 15
+        },
+        {
+            "place_name": "Dhoopgarh",
+            "Sentiment Index": 0.4027302150762163,
+            "Total Posts": 15
+        },
+        {
+            "place_name": "Kanha Museum",
+            "Sentiment Index": 0.39291676502283573,
+            "Total Posts": 14
+        },
+        {
+            "place_name": "Taj-ul-Masajid",
+            "Sentiment Index": 0.3635337408460933,
+            "Total Posts": 14
+        },
+        {
+            "place_name": "Satpura National Park",
+            "Sentiment Index": 0.35906379707916986,
+            "Total Posts": 19
+        },
+        {
+            "place_name": "Nature Trails",
+            "Sentiment Index": 0.3260678087080657,
+            "Total Posts": 15
+        },
+        {
+            "place_name": "Bharat Bhavan",
+            "Sentiment Index": 0.32426700987894813,
+            "Total Posts": 12
+        },
+        {
+            "place_name": "Rajwada Palace",
+            "Sentiment Index": 0.320147701682342,
+            "Total Posts": 13
+        },
+        {
+            "place_name": "Sandipani Ashram",
+            "Sentiment Index": 0.2910318742495361,
+            "Total Posts": 8
+        }
+    ]
+}
